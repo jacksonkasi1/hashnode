@@ -122,3 +122,7 @@ Ensure that you replace `YOUR_TABLE_NAME` with the name of the table you want to
 In this article, we've learned how to create an API endpoint to restore a backup of a DynamoDB table. This functionality provides a convenient way to restore a table without accessing the AWS Management Console. By following the steps outlined in this tutorial, you can easily implement this feature in your own Node.js applications.
 
 Remember to handle errors appropriately and secure your API endpoint by implementing authentication and authorization mechanisms.
+
+**GitHub repository✨**
+
+visit the GitHub repository at [**https://github.com/jacksonkasi1/dynamodb-backup-restore**](https://github.com/jacksonkasi1/dynamodb-backup-restore). Clone or download the repository to get started quickly and efficiently.
